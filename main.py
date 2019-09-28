@@ -10,6 +10,9 @@ if __name__ == '__main__':
         TargetType.Vegetable: 5,
         TargetType.Box: 2,
         TargetType.Food: 8
+        TargetType.Sofa: 2,
+        TargetType.Chicken: 4,
+        TargetType.Ore: 8
     }
 
     # 连接 adb 。
